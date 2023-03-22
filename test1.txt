@@ -1,0 +1,319 @@
+Assembla
+Project Spaces
+Repositories
+All Users
+Stream
+More
+My Work
+Search in this repo
+2
+My Profile
+BFS-125
+TICKETS
+Ticket List
+Cardwall
+Milestones
+SHOW MORE...
+REPOSITORIES
+
+Repo125
+SPACE TOOLS
+Wiki
+Stream
+Space Team
+Space Settings
+Integrations
+OTHER TOOLS
+Summary page
+Give us feedback!
+newBFS-125Repo125
+Source
+Commits
+Builds
+Compare
+Merge Requests
+Fork Network
+Instructions
+Security Scan
+Settings
+BFS-125.Repo125/test1.txt
+test1.txt
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.125s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
+real    0m0.121s
+user    0m0.000s
+sys     0m0.121s
+real    0m26.944s
+user    0m0.227s
+sys     0m26.624s
+real    0m1.165s
+user    0m0.030s
+sys     0m1.130s
+real    0m1.256s
+user    0m0.062s
+sys     0m1.162s
+real    0m4.433s
+user    0m0.033s
+sys     0m1.282s
+real    0m6.897s
+user    0m0.000s
+sys     0m0.159s
+$ time head -1000 input > output && time sed -i '1,+999d' input
